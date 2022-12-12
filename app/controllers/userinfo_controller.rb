@@ -1,0 +1,2 @@
+class UserinfoController < ApplicationController
+end
